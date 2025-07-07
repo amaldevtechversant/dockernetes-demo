@@ -1,0 +1,20 @@
+# File: rs-example.yaml
+apiVersion: apps/v1
+kind: ReplicaSet
+metadata:
+  name: my-app-rs
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: my-app
+  template:
+    metadata:
+      labels:
+        app: my-app
+    spec:
+      containers:
+        - name: my-app-container
+          image: amaldevtech/k8s_repo:myapp
+          ports:
+            - containerPort: 80

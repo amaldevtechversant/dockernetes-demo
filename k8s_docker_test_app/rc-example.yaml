@@ -1,0 +1,19 @@
+# File: rc-example.yaml
+apiVersion: v1
+kind: ReplicationController
+metadata:
+  name: my-app-rc
+spec:
+  replicas: 2
+  selector:
+    app: my-app
+  template:
+    metadata:
+      labels:
+        app: my-app
+    spec:
+      containers:
+        - name: my-app-container
+          image: amaldevtech/k8s_repo:myapp
+          ports:
+            - containerPort: 80
