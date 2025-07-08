@@ -1,11 +1,7 @@
 # dockernetes-demo
 ![Screenshot from 2025-07-03 15-18-28](https://github.com/user-attachments/assets/4e24b738-cff5-46aa-96e5-a475ad74131a)
 
-![Screenshot from 2025-07-03 15-19-00](https://github.com/user-attachments/assets/2b9da458-e78e-45e5-a361-bbbf53b8b1b3)
-
 ![Screenshot from 2025-07-03 15-38-33](https://github.com/user-attachments/assets/766a7e3e-c962-485d-aef0-3038938e10bf)
-
-![Screenshot from 2025-07-03 16-09-26](https://github.com/user-attachments/assets/eb446b55-51ec-4d4b-8e1a-080cfdb21dbf)
 
 ![Screenshot from 2025-07-03 17-45-43](https://github.com/user-attachments/assets/74d6b94e-f23a-4221-ad5c-9968588a0346)
 
